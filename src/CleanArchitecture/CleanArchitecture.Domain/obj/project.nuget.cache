@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/gUexqc787NQTkS9zNLLyNZ9SxOT2jEetX4UEwB71mScOzbfTEnZPjTG5faFjXZtKKi2Q1z/+UN8KUS0vG8WQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DomainDrivenDesign\\src\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adria\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
